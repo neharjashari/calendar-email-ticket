@@ -1,0 +1,104 @@
+{
+    "user": {
+        "email": "stephan@usergems.com",
+        "company": "UserGems"
+    },
+    "events": [
+        {
+            "title": "UserGems x Algolia",
+            "start": "2022-07-01 09:30:00",
+            "end": "2022-07-01 10:00:00",
+            "duration": "30m",
+            "target_company": {
+                "name": "Algolia",
+                "linkedin_url": "https:\/\/www.linkedin.com\/company\/algolia",
+                "employees": 700
+            },
+            "joining_from_same_company": [
+                {
+                    "email": "joss@usergems.com",
+                    "first_name": null,
+                    "last_name": null,
+                    "avatar": null,
+                    "title": null,
+                    "linkedin_url": null,
+                    "accepted": 1
+                }
+            ],
+            "participants": [
+                {
+                    "email": "demi@algolia.com",
+                    "first_name": "Demi",
+                    "last_name": "Malnar",
+                    "avatar": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4D03AQHPUFYhbLcAqw\/profile-displayphoto-shrink_200_200\/0\/1516239694635?e=1664409600&v=beta&t=xmiukyVVGR6edLzuNnkBjA0vzfvEg-COOCmcKIjDcGk",
+                    "title": "GTM Chief of Staff",
+                    "linkedin_url": "https:\/\/www.linkedin.com\/in\/demimalnar",
+                    "company": {
+                        "name": "Algolia",
+                        "linkedin_url": "https:\/\/www.linkedin.com\/company\/algolia",
+                        "employees": 700
+                    },
+                    "stats": {
+                        "total_events": 1,
+                        "total_events_with": []
+                    },
+                    "accepted": 1
+                },
+                {
+                    "email": "joshua@algolia.com",
+                    "first_name": "Joshua",
+                    "last_name": "Mateer",
+                    "avatar": "https:\/\/media-exp1.licdn.com\/dms\/image\/C5603AQGb0ATcWHnC6A\/profile-displayphoto-shrink_200_200\/0\/1630336547843?e=1664409600&v=beta&t=8w4kVvRAR7auRV5NSMVG9afPKAaO2Axe_K2FT9FQwfI",
+                    "title": "Sr Manager, Marketing Operations and Technology",
+                    "linkedin_url": "https:\/\/www.linkedin.com\/in\/josh-mateer-37615665",
+                    "company": {
+                        "name": "Algolia",
+                        "linkedin_url": "https:\/\/www.linkedin.com\/company\/algolia",
+                        "employees": 700
+                    },
+                    "stats": {
+                        "total_events": 1,
+                        "total_events_with": []
+                    },
+                    "accepted": 1
+                },
+                {
+                    "email": "woojin@algolia.com",
+                    "first_name": "Woojin",
+                    "last_name": "Shin",
+                    "avatar": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E03AQE18QqWycaVXw\/profile-displayphoto-shrink_200_200\/0\/1617667686101?e=1664409600&v=beta&t=KoVixUXURtvsxO1Y11f281Re4i1DL1W8cOmtm-SVXJ4",
+                    "title": "Manager, North America Business Development",
+                    "linkedin_url": "https:\/\/www.linkedin.com\/in\/woojinxshin",
+                    "company": {
+                        "name": "Algolia",
+                        "linkedin_url": "https:\/\/www.linkedin.com\/company\/algolia",
+                        "employees": 700
+                    },
+                    "stats": {
+                        "total_events": 1,
+                        "total_events_with": []
+                    },
+                    "accepted": 1
+                },
+                {
+                    "email": "aletta@algolia.com",
+                    "first_name": "Aletta",
+                    "last_name": "Noujaim",
+                    "avatar": "https:\/\/media-exp1.licdn.com\/dms\/image\/C4E03AQFXfKcuS0FqOA\/profile-displayphoto-shrink_200_200\/0\/1640522676592?e=1664409600&v=beta&t=hIPnQK0pL16Re1gizVvSpVIbFIO8ZBx6n2PfXazjVXA",
+                    "title": "Director of Sales Development, EMEA & emerging markets",
+                    "linkedin_url": "https:\/\/www.linkedin.com\/in\/alettamarce",
+                    "company": {
+                        "name": "Algolia",
+                        "linkedin_url": "https:\/\/www.linkedin.com\/company\/algolia",
+                        "employees": 700
+                    },
+                    "stats": {
+                        "total_events": 1,
+                        "total_events_with": []
+                    },
+                    "accepted": 0
+                }
+            ]
+        }
+    ]
+}
